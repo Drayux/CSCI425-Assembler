@@ -1,2 +1,13 @@
-# CSCI425-Assembler
-Final component of the Lexer/Compiler/Assembler framework: Project for CSCI425 (Compiler Design)
+### Assembler: Basic assembler interface
+
+## ABOUT
+`TODO`
+
+## USAGE/CLI
+`TODO`
+
+## FEATURES
+Hey @Konch, this is the spot for the TODO checklist if you feel compelled to make one!
+
+## COURSE AFFILIATION
+`TODO`
